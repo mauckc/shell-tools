@@ -1,2 +1,2 @@
 # shell-tools
-repo for frequently used shell functions
+frequently used shell functions
